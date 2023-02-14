@@ -10,7 +10,7 @@ Simple Example:
 
     tabulate_helper.display_rows_interactively(max_limit=75,
                                                results=_results,
-                                               table=table_1,
+                                               table=a_table,
                                                extra_input=False,
                                                message='\n--- more ---\n',
                                                function=None)
